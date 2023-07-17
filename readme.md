@@ -30,9 +30,7 @@ make
 # make sure data(images amd yaml) path is ../../ before cur app
 ./avm_app
 ```
-## First Verison Demo(awb and lum banlance is not enable)
-![first demo](./images/ADAS_EYES_360_VIEW.png)
-
-## TODO:
-
-`add awb and lum banlance`
+## Result
+|awb and lum banlance disable|awb and lum banlance enable|
+|----|----|
+|![no banlance](./images/result/ADAS_EYES_360_VIEW_AWB_DISABLE.png)|![banlance](./images/result/ADAS_EYES_360_VIEW_AWB_ENABLE.png)|
